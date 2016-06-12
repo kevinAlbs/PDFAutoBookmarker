@@ -8,7 +8,7 @@ The following command does it all
 java -jar BookmarkMaker.jar <pdf> <bookmark file> <page offset>
 ```
 
-Will copy the file <pdf> to <pdf>.with_bookmarks.pdf with the included bookmarks.
+This will copy the file &lt;pdf&gt; to &lt;pdf&gt;.with_bookmarks.pdf with the included bookmarks.
 
 **&lt;bookmark file&gt;** specifies the bookmarks in text form. An example of proper format is as follows:
 
